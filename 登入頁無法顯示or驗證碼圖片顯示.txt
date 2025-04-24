@@ -1,0 +1,9 @@
+開啟php.ini => 找;extension=gd => 刪除分號;extension=gd
+
+
+
+
+ini max_allow = 64m
+
+
+
